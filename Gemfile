@@ -30,6 +30,7 @@ gem 'graphql', '1.7.4'
 # debuggers
 gem 'pry'
 gem 'pry-rails'
+gem 'seed_dump'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
